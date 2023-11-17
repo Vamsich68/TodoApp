@@ -14,5 +14,4 @@ public class testToDoBusiness {
         List<String> alltodos= testToDoService.retrieveTodos(user);
         return  alltodos;
     }
-
 }
